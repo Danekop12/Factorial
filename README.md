@@ -1,2 +1,0 @@
-# Factorial
-Created with CodeSandbox
